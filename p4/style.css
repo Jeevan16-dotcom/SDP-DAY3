@@ -1,0 +1,42 @@
+body{
+    background-color:aliceblue;
+    justify-self: center;
+}
+h2{
+    color: brown;
+    font-family: cursive;
+    align-items: center;
+    border-width: 15px;
+}
+button{
+    background-color:burlywood;
+}
+ #danger{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    background-color: lightseagreen;
+ }
+ #name1{
+    color: antiquewhite;
+    background-color: rgb(73, 75, 74);
+    border-width: 10px;
+    font-style: oblique ;
+}
+#name2{
+    color: antiquewhite;
+    background-color: rgb(73, 75, 74);
+    border-width: 10px;
+    font-style: oblique ;
+ }
+div{
+    height: 420px;
+    width: 500px;
+    padding: 10px;
+    border: 2px solid red;
+    margin: 10px;
+    border-radius: 55%;
+    background-color:rgb(60, 55, 55) (51, 5, 5);
+}
